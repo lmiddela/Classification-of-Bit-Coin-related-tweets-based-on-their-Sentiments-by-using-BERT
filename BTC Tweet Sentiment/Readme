@@ -1,19 +1,19 @@
-*Introduction*
+Introduction
 First we take a dataset for bit-coin sentiment classification.
 Then we apply sentiment classification on the dataset.
 
-*Pre-processing*
+Pre-processing
 .Remove Urls
 .Filter Special Characters
 .Stopwords/HTML Tag
 .Lemmatization
 
-*Machine Learning Models*
+Machine Learning Models
 .SVM
 .RF
 .KNN
 
-*Pre-Trained BERT Model*
+Pre-Trained BERT Model
 We use the BERT Pre-Trained Model for the sentiment classification of bit-coin tweeets.
 BERT Model showed the highest accuracy compare to the other trained ML models.
 
